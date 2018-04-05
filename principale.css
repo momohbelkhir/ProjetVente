@@ -1,0 +1,55 @@
+.p{
+
+	background-image: url("img6.png") ;
+   background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  text-align: center;
+  height: 600px;
+  
+  padding:35px;
+}
+/*tr,td,tr,th {
+    border: 1px solid black;
+ background-color: #5abcf8;
+ 
+}
+
+table {
+	text-align: center;
+   border-collapse: collapse;
+    width: 55%;
+ 
+
+}*/
+h3, h4, h1, h2{
+  color:red ;
+}
+
+/*h2,h1{
+  color:#1271ba ;
+}*/
+body{
+	background-color: gray;
+
+}
+
+a{
+   font-size: 25px;
+}
+form{
+	text-align: center;
+	 
+}
+.image {
+    width:1000%;
+    border: 3px solid black;
+    width:170px;
+    height:180px;
+    float: right; 
+
+}
+label{
+  color:#1271ba ;
+}
